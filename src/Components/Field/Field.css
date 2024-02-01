@@ -1,0 +1,25 @@
+.field{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.field span{
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
+}
+
+.field div{
+    font-size: 20px;
+    font-weight: 400;
+    font-family: 'Times New Roman', Times, serif;
+    width: 60%;
+}
+
+.fields{
+    display: flex;
+    flex-direction: row;
+    gap: 100px;
+}
+

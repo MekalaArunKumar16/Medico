@@ -1,0 +1,60 @@
+.card-list{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 50px;
+    padding: 20px;
+    background-color: white;
+}
+
+.apponitment{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    align-items: center;
+}
+
+.nav-list1{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
+
+.appointment_btn{
+    background-color: #008AC5;
+    padding: 15px;
+    color: white;
+    border-radius: 20px;
+    border: none;
+    font-size: 18px;
+}
+
+.phone{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.phone span{
+    font-size: 25px;
+}
+
+.nav1{
+    font-size: 17px;
+    font-weight: 700;
+    font-family:'Times New Roman', Times, serif
+}
+
+.navbar1{
+    font-size: 28px;
+    font-weight: 500;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.navbar1 img{
+    width: 24px;
+    height: 24px;
+}

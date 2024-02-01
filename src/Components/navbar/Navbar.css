@@ -1,0 +1,30 @@
+.navbar{
+    width: 100%;
+    background: #008AC5;
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    padding: 12px;
+
+}
+
+.nav-items{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    align-items: center;
+}
+
+.nav-text{
+    color: white;
+    font-weight: 500;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.nav{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    margin-left: 60px;
+}

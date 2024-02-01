@@ -1,0 +1,185 @@
+.test_div{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    align-items: center;
+}
+
+.test_div span{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+}
+
+.test_div pre{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 300;
+}
+
+.box{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    height: 90px;
+    width: 600px;
+    padding: 10px;
+    margin: 15px;
+    align-items: center;
+    background-color: white;
+}
+
+.box span{
+    font-size: 20px;
+}
+
+.box1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 10px;
+    background-color: #008AC5;
+    padding: 15px;
+    border-radius: 10px;
+    color: white;
+}
+
+.box2{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    padding: 20px;
+}
+
+
+.box2_text img{
+    width: 120px;
+    height: 80px;
+    z-index: 10;
+}
+
+.box2_text{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.box2_text button{
+    background-color: #008AC5;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 20px;
+    width: fit-content;
+    height: 40px;
+    border: none;
+}
+
+.box2_text span{
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.box2_text p{
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.box2_text ul{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.box2_text ul li{
+    font-size: 15px;
+    font-weight: 300;
+    text-decoration: none;
+    list-style: none;
+}
+
+
+.orangebox{
+    width: 400px;
+    height: 80px;
+    background-color: rgb(251, 196, 93);
+    border-radius: 20px;
+    position: relative;
+    top: -200;
+}
+
+.orgbox{
+    display: flex;
+    flex-direction: column;
+}
+
+.form1{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.form{
+    display: flex;
+    flex-direction: row;
+    gap: 100px;
+    padding: 20px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+input{
+    width: 300px;
+    font-size: 14px;
+    padding: 10px;
+    border: 0.5px solid rgb(94, 94, 94);
+    border-radius: 10px;
+    margin: 5px;
+}
+
+button{
+    background-color: #008AC5;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    font-size: 18px;
+    color: white;
+}
+
+
+.realform{
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    margin: 20px;
+}
+
+.form_text{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.paraform{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.paraform span{
+    font-size: 60px;
+    font-weight: 700;
+}
+
+.paraform p{
+    font-size: 25px; 
+    font-weight: 500;
+}
+
+.paraform button{
+    width: fit-content ;
+}
+
+.rrr{
+    display: block;
+}

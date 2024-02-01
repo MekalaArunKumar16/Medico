@@ -1,0 +1,26 @@
+.main_container img{
+    position: relative;
+    width: 300px;
+    height: 200px;
+    border-radius: 15px;
+    padding: 5px;
+
+}
+
+.main_container div{
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    position:relative;
+    top:-40px;
+    left:40px;
+    background-color:  #008AC5;
+    color: white;
+    border-radius:10px;
+    width: fit-content;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    padding-right: 30px;
+
+}
